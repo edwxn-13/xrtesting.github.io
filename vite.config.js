@@ -1,5 +1,5 @@
 import { defineConfig } from "vite";
-import BABYLON from "@babylonjs/core";
+import BABYLON from "https://cdn.babylonjs.com/babylon.max.js";
 
 export default defineConfig(
     {
